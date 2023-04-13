@@ -1,0 +1,54 @@
+20/06/2022, 19:18:22 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:23:47 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:24:55 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:25:33 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:32:51 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:33:02 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:35:15 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:40:39 - info: 		 Article Service
+20/06/2022, 19:40:39 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:41:04 - info: 		 Article Service
+20/06/2022, 19:41:04 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:41:52 - info: 		 Article Service
+20/06/2022, 19:41:52 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:41:57 - info: 		 Article Service
+20/06/2022, 19:41:57 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:42:24 - info: 		 Article Service
+20/06/2022, 19:42:24 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:42:44 - info: 		 Article Service
+20/06/2022, 19:42:44 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:42:51 - info: 		 {}
+20/06/2022, 19:43:10 - info: 		 Article Service
+20/06/2022, 19:43:10 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:43:13 - info: 		 Article Service
+20/06/2022, 19:43:13 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:43:51 - info: 		 Article Service
+20/06/2022, 19:43:51 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:43:58 - error: 		 ERROR - articleService(subscribe) - {}
+20/06/2022, 19:44:15 - info: 		 Article Service
+20/06/2022, 19:44:15 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:44:20 - error: 		 ERROR - articleService(subscribe) - {}
+20/06/2022, 19:44:51 - info: 		 Article Service
+20/06/2022, 19:44:51 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:45:06 - info: 		 Article Service
+20/06/2022, 19:45:06 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:45:35 - error: 		 ERROR - articleService(unsubscribe) - {}
+20/06/2022, 19:47:03 - info: 		 Article Service
+20/06/2022, 19:47:03 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 19:47:09 - error: 		 ERROR - articleService(unsubscribe) - Socket already opened
+20/06/2022, 19:48:17 - info: 		 Article Service
+20/06/2022, 19:48:17 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 20:35:13 - info: 		 Article Service
+20/06/2022, 20:35:13 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 18:47:18 - info: 		 Article Service
+20/06/2022, 18:47:18 - info: 		 Publisher service running, listening on port 3003
+20/06/2022, 18:47:39 - info: 		 Article Service
+20/06/2022, 18:47:39 - info: 		 Subscriber service running, listening on port 3003
+20/06/2022, 18:50:55 - error: 		 ERROR - articleService(subscribe) - connect ECONNREFUSED 127.0.0.1:6379
+20/06/2022, 18:56:08 - info: 		 Article Service
+20/06/2022, 18:56:08 - info: 		 Subscriber service running, listening on port 3003
+20/06/2022, 18:56:10 - error: 		 ERROR - articleService(subscribe) - connect ECONNREFUSED 127.0.0.1:6379
+20/06/2022, 18:57:18 - info: 		 Article Service
+20/06/2022, 18:57:18 - info: 		 Subscriber service running, listening on port 3003
+20/06/2022, 18:58:41 - info: 		 Article Service
+20/06/2022, 18:58:41 - info: 		 Subscriber service running, listening on port 3003

@@ -1,0 +1,6 @@
+20/06/2022, 19:43:58 - error: 		 ERROR - articleService(subscribe) - {}
+20/06/2022, 19:44:20 - error: 		 ERROR - articleService(subscribe) - {}
+20/06/2022, 19:45:35 - error: 		 ERROR - articleService(unsubscribe) - {}
+20/06/2022, 19:47:09 - error: 		 ERROR - articleService(unsubscribe) - Socket already opened
+20/06/2022, 18:50:55 - error: 		 ERROR - articleService(subscribe) - connect ECONNREFUSED 127.0.0.1:6379
+20/06/2022, 18:56:10 - error: 		 ERROR - articleService(subscribe) - connect ECONNREFUSED 127.0.0.1:6379
